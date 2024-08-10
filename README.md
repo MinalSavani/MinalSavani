@@ -31,7 +31,7 @@
 <br/>
 
 <!--- Activity Start -->
-<div align="left"> <h3> mY Activity Graph </h3> </div>
+<div align="left"> <h3> My Activity Graph </h3> </div>
 
 ---
 
@@ -124,6 +124,9 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+<br/>
+<br/>
 
 <div align="left"> <h3> Profile Visiter Counter </h3> </div>
 
